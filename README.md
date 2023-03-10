@@ -8,7 +8,7 @@ Grade: 80/100 (Distinction)
 
 The goal of this coursework is to solve a NLP task of movie review sentiment prediction (positive/negative). The data is a subset of the [IMDB movie reviews dataset](http://ai.stanford.edu/~amaas/data/sentiment/).
 
-The final report can be found [here](https://github.com/sskyau/svm-boosting/blob/master/Final%20Report.pdf).
+The final report can be found [here](https://github.com/RPSha/Film-Review-Sentiment-Analysis/blob/main/Final%20Report.pdf).
 
 ## Data Preprocessing
 
