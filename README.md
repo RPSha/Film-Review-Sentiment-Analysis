@@ -12,7 +12,7 @@ The final report can be found [here](https://github.com/RPSha/Film-Review-Sentim
 
 ## Data Preprocessing
 
-Prior to model development, a series of preprocessing steps are taken to clean and extract the most meaningful vocabularies to be processed by the models. 
+Prior to model development, a series of preprocessing steps are taken to clean and extract the most meaningful keywords to be processed by the models. 
 
 ![preprocessing](preprocessing_steps.png)
 
